@@ -1,3 +1,6 @@
+This repo contains the home of the react app for my portfolio, which you can view <a href="https://intense-ravine-32935.herokuapp.com/"><strong>Here</strong></a>. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
